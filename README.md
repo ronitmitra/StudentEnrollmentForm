@@ -9,3 +9,5 @@ If rollno. is not present in database , alert message will pop up telling the us
 RollNo. is saved as ID in database SCHOOL-DB.
 Update button can be used to update database.
 Reset button can be used to reset a form.
+Database is Created using JsonPowerDb. It is extemely interactive and easy to use Database management System. It works on connection token which is easy to generate.
+Performing CRUD operation is easy.
